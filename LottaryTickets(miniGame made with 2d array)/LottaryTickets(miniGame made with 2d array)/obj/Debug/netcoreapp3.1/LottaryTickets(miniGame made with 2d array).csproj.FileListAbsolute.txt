@@ -1,0 +1,12 @@
+C:\Users\Asen's PC\source\repos\LottaryTickets(miniGame made with 2d array)\LottaryTickets(miniGame made with 2d array)\obj\Debug\netcoreapp3.1\LottaryTickets(miniGame made with 2d array).csproj.CoreCompileInputs.cache
+C:\Users\Asen's PC\source\repos\LottaryTickets(miniGame made with 2d array)\LottaryTickets(miniGame made with 2d array)\obj\Debug\netcoreapp3.1\LottaryTickets(miniGame made with 2d array).AssemblyInfoInputs.cache
+C:\Users\Asen's PC\source\repos\LottaryTickets(miniGame made with 2d array)\LottaryTickets(miniGame made with 2d array)\obj\Debug\netcoreapp3.1\LottaryTickets(miniGame made with 2d array).AssemblyInfo.cs
+C:\Users\Asen's PC\source\repos\LottaryTickets(miniGame made with 2d array)\LottaryTickets(miniGame made with 2d array)\bin\Debug\netcoreapp3.1\LottaryTickets(miniGame made with 2d array).exe
+C:\Users\Asen's PC\source\repos\LottaryTickets(miniGame made with 2d array)\LottaryTickets(miniGame made with 2d array)\bin\Debug\netcoreapp3.1\LottaryTickets(miniGame made with 2d array).deps.json
+C:\Users\Asen's PC\source\repos\LottaryTickets(miniGame made with 2d array)\LottaryTickets(miniGame made with 2d array)\bin\Debug\netcoreapp3.1\LottaryTickets(miniGame made with 2d array).runtimeconfig.json
+C:\Users\Asen's PC\source\repos\LottaryTickets(miniGame made with 2d array)\LottaryTickets(miniGame made with 2d array)\bin\Debug\netcoreapp3.1\LottaryTickets(miniGame made with 2d array).runtimeconfig.dev.json
+C:\Users\Asen's PC\source\repos\LottaryTickets(miniGame made with 2d array)\LottaryTickets(miniGame made with 2d array)\bin\Debug\netcoreapp3.1\LottaryTickets(miniGame made with 2d array).dll
+C:\Users\Asen's PC\source\repos\LottaryTickets(miniGame made with 2d array)\LottaryTickets(miniGame made with 2d array)\bin\Debug\netcoreapp3.1\LottaryTickets(miniGame made with 2d array).pdb
+C:\Users\Asen's PC\source\repos\LottaryTickets(miniGame made with 2d array)\LottaryTickets(miniGame made with 2d array)\obj\Debug\netcoreapp3.1\LottaryTickets(miniGame made with 2d array).dll
+C:\Users\Asen's PC\source\repos\LottaryTickets(miniGame made with 2d array)\LottaryTickets(miniGame made with 2d array)\obj\Debug\netcoreapp3.1\LottaryTickets(miniGame made with 2d array).pdb
+C:\Users\Asen's PC\source\repos\LottaryTickets(miniGame made with 2d array)\LottaryTickets(miniGame made with 2d array)\obj\Debug\netcoreapp3.1\LottaryTickets(miniGame made with 2d array).genruntimeconfig.cache
